@@ -1,0 +1,51 @@
+@media(max-width:991px) {
+    /* custom css */
+    section {
+        padding: 30px 0;
+    }
+    h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    h3 {
+        font-size: 20px;
+    }
+    /* 2 Navbar */
+    /* banner wrapper */
+    .banner-wrapper {
+        padding: 200px 0;
+    }
+    h3 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+    p {
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width:767px) {
+    /* custom css */
+    h1 {
+        font-size: 33px;
+        line-height: 48px;
+    }
+    h2 {
+        font-size: 25px;
+    }
+    p {
+        font-size: 13px;
+        line-height: 24px;
+    }
+}
+
+@media(min-width:425px) and (max-width:768px) {}
+
+
+/* color: #000000; */
+
+
+/* About */
+
+
+/* portfolio */
