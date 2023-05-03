@@ -384,6 +384,11 @@ button {
     bottom: 252px; */
 }
 
+.colorp {
+    color: #091020;
+    font-weight: bold;
+}
+
 .container2 {
     width: 100%;
     text-align: center;
